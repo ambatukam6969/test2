@@ -1,0 +1,18 @@
+{
+  "name": "daffa-bot-multimodule",
+  "version": "2.0.0",
+  "description": "WhatsApp Bot with Multi-file Structure",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Gemini",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.2",
+    "pino": "^8.15.0",
+    "pino-pretty": "^10.2.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
